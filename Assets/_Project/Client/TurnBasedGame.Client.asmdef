@@ -1,0 +1,17 @@
+{
+    "name": "TurnBasedGame.Client",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2398cff8aac068b4292204917c5f4428",
+        "GUID:01cdbf32ffdeebb4aa3ee0e62143cdfa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

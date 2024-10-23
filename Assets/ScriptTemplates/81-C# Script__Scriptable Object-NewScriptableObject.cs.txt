@@ -1,0 +1,10 @@
+using UnityEngine;
+
+namespace TurnBasedGame
+{
+    [CreateAssetMenu]
+    public class #SCRIPTNAME# : ScriptableObject
+    {
+        
+    }
+}

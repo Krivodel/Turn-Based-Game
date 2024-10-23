@@ -1,0 +1,7 @@
+namespace TurnBasedGame
+{
+    public struct #SCRIPTNAME#
+    {
+        
+    }
+}

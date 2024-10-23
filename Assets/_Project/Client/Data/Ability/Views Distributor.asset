@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464ea3ece9643b447979477e9e69a45d, type: 3}
+  m_Name: Views Distributor
+  m_EditorClassIdentifier: 
+  _descriptors:
+  - <Key>k__BackingField: AttackAbility
+    <ViewData>k__BackingField: {fileID: 11400000, guid: dc16768b928afbd46b30a73b68717ef0, type: 2}
+  - <Key>k__BackingField: BarrierAbility
+    <ViewData>k__BackingField: {fileID: 11400000, guid: 84cc300e327420446815e33b4322e3fb, type: 2}
+  - <Key>k__BackingField: CleanupAbility
+    <ViewData>k__BackingField: {fileID: 11400000, guid: 044cc495277e3df4fb98b6a9eed9421d, type: 2}
+  - <Key>k__BackingField: FireballAbility
+    <ViewData>k__BackingField: {fileID: 11400000, guid: d2482750a176e4944b02b5eb87621b10, type: 2}
+  - <Key>k__BackingField: RegenerationAbility
+    <ViewData>k__BackingField: {fileID: 11400000, guid: b74c836634ec4074c989f0aeac65dd0f, type: 2}
